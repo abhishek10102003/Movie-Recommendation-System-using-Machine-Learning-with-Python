@@ -4,3 +4,5 @@ Movie Recommendation System with Python
 Content Based Recommendation System : Recommend movies to a user based on content of the film watched before based on genre and content of movie. 
 Popularity Based Recommendation System : Recommend movies which are most popular , include popular actors and has good ratings provided by other user.
 Collaborative Based Recommendation System : Recommend movies  to groups people based on their watching pattern previous data or movie preferences based on their taste  , this people are watching similar kind of movie so they will get similar suggestion based on similar  others users.
+
+http://localhost:8890/notebooks/Movie%20Recommendation%20System%20using%20Machine%20Learning%20with%20Python.ipynb
